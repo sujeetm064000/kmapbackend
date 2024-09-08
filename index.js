@@ -10,8 +10,11 @@ const USER_DATA = path.join(__dirname, 'users.json');
 const DETAILS_USER_DATA = path.join(__dirname, 'details.json');
 // Middleware to parse JSON request bodies
 app.use(express.json());
-app.use(cors());
-
+// app.use(cors());
+// OR to allow only specific origins:
+app.use(cors({
+  origin: 'https://kmap-one.vercel.app'  // Allow only this origin
+}));
 // Setup bodyParser
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
