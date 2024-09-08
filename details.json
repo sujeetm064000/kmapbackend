@@ -1,34 +1,20 @@
 [
   {
-    "rfid": "2sjkb3",
+    "rfid": "MEM3400",
     "level": "1",
-    "experience": "sdsd",
-    "bio": "asda",
+    "experience": "ABCD",
+    "bio": "ABCD",
     "imageLocation": "/images/d50d7742a8a9aa910e99aa286104dff9",
     "completiondate": "2024-08-16",
     "public": true
   },
   {
-    "rfid": "2sjkb1",
+    "rfid": "MEM3400",
     "level": "0",
-    "experience": "czxczxcsujeet",
-    "bio": "xcfdgsdf",
+    "experience": "ABCD",
+    "bio": "ABCD",
     "imageLocation": "/images/2sjkb1_Screenshot 2024-03-02 093616.png",
     "completiondate": "2024-08-17",
     "public": true
-  },
-  {
-    "rfid": "2sjkb1",
-    "level": "1",
-    "experience": "sds",
-    "bio": "sadsd",
-    "imageLocation": "/images/aca9ba97cab9338188c2aab14ca31b4e"
-  },
-  {
-    "rfid": "2sjkb1",
-    "level": "10",
-    "experience": "sujeet",
-    "bio": "dddd",
-    "imageLocation": "/images/654fff90764285a5548af110473f0867"
   }
 ]

@@ -1,36 +1,8 @@
 [
   {
-    "rfid": "2sjkb1",
-    "name": "Sujeet Kumar Kannaujia",
-    "password": "abc",
-    "latitude": 19.1714481,
-    "longitude": 72.8767271
-  },
-  {
-    "rfid": "2sjkb2",
-    "name": "Aryan",
-    "password": "abc",   
-    "latitude": 19.1714481,
-    "longitude": 73.8767271
-  },
-  {
-    "rfid": "2sjkb3",
-    "name": "Vishal",
-    "password": "abc",
-    "latitude": 28.459497,
-    "longitude": 77.026634
-  },
-  {
-    "rfid": "23423d",
-    "name": "Vikas",
-    "password": "abc",
-    "latitude": 28.499497,
-    "longitude": 77.026634
-  },
-  {
-    "rfid": "2sjkb5",
-    "name": "Vishal2",
-    "password": "abc",
+    "rfid": "MEM3400",
+    "name": "Vikas Kanaujia",
+    "password": "admin",
     "latitude": 28.459497,
     "longitude": 77.026634
   }
